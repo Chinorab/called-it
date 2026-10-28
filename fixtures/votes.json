@@ -1,0 +1,69 @@
+{
+  "provenance": "Authored test timeline. Fictional viewers. Not captured from a real stream.",
+  "messages": [
+    {
+      "id": "vote0",
+      "at": 1000,
+      "userId": "viewer0",
+      "name": "Fern",
+      "text": "!clip",
+      "emotes": []
+    },
+    {
+      "id": "vote1",
+      "at": 1700,
+      "userId": "viewer1",
+      "name": "Milo",
+      "text": "!clip",
+      "emotes": []
+    },
+    {
+      "id": "vote2",
+      "at": 2400,
+      "userId": "viewer2",
+      "name": "River",
+      "text": "!clip",
+      "emotes": []
+    },
+    {
+      "id": "vote3",
+      "at": 3100,
+      "userId": "viewer3",
+      "name": "Sage",
+      "text": "!clip",
+      "emotes": []
+    },
+    {
+      "id": "vote4",
+      "at": 3800,
+      "userId": "viewer4",
+      "name": "Ash",
+      "text": "!clip",
+      "emotes": []
+    },
+    {
+      "id": "vote5",
+      "at": 4500,
+      "userId": "viewer5",
+      "name": "Rowan",
+      "text": "!clip",
+      "emotes": []
+    },
+    {
+      "id": "vote6",
+      "at": 5200,
+      "userId": "viewer6",
+      "name": "Kit",
+      "text": "!clip",
+      "emotes": []
+    },
+    {
+      "id": "vote7",
+      "at": 5900,
+      "userId": "viewer7",
+      "name": "Jules",
+      "text": "!clip",
+      "emotes": []
+    }
+  ]
+}

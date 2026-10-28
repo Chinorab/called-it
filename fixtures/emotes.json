@@ -1,0 +1,75 @@
+{
+  "provenance": "Authored test timeline. Fictional viewers. Not captured from a real stream.",
+  "messages": [
+    {
+      "id": "emote0",
+      "at": 2000,
+      "userId": "fan0",
+      "name": "Viewer 1",
+      "text": "PogChamp",
+      "emotes": [
+        "305954156"
+      ]
+    },
+    {
+      "id": "emote1",
+      "at": 2200,
+      "userId": "fan1",
+      "name": "Viewer 2",
+      "text": "PogChamp",
+      "emotes": [
+        "305954156"
+      ]
+    },
+    {
+      "id": "emote2",
+      "at": 2400,
+      "userId": "fan2",
+      "name": "Viewer 3",
+      "text": "PogChamp",
+      "emotes": [
+        "305954156"
+      ]
+    },
+    {
+      "id": "emote3",
+      "at": 2600,
+      "userId": "fan3",
+      "name": "Viewer 4",
+      "text": "PogChamp",
+      "emotes": [
+        "305954156"
+      ]
+    },
+    {
+      "id": "emote4",
+      "at": 2800,
+      "userId": "fan4",
+      "name": "Viewer 5",
+      "text": "PogChamp",
+      "emotes": [
+        "305954156"
+      ]
+    },
+    {
+      "id": "emote5",
+      "at": 3000,
+      "userId": "fan5",
+      "name": "Viewer 6",
+      "text": "PogChamp",
+      "emotes": [
+        "305954156"
+      ]
+    },
+    {
+      "id": "emote6",
+      "at": 3200,
+      "userId": "fan6",
+      "name": "Viewer 7",
+      "text": "PogChamp",
+      "emotes": [
+        "305954156"
+      ]
+    }
+  ]
+}

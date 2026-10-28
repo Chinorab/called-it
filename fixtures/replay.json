@@ -1,0 +1,571 @@
+{
+  "provenance": "Authored test timeline. Fictional viewers. Not captured from a real stream.",
+  "messages": [
+    {
+      "id": "quiet0",
+      "at": 0,
+      "userId": "viewer0",
+      "name": "Fern",
+      "text": "Watching the stream",
+      "emotes": []
+    },
+    {
+      "id": "quiet1",
+      "at": 5000,
+      "userId": "viewer1",
+      "name": "Milo",
+      "text": "Watching the stream",
+      "emotes": []
+    },
+    {
+      "id": "quiet2",
+      "at": 10000,
+      "userId": "viewer2",
+      "name": "River",
+      "text": "Watching the stream",
+      "emotes": []
+    },
+    {
+      "id": "quiet3",
+      "at": 15000,
+      "userId": "viewer3",
+      "name": "Sage",
+      "text": "Watching the stream",
+      "emotes": []
+    },
+    {
+      "id": "quiet4",
+      "at": 20000,
+      "userId": "viewer0",
+      "name": "Fern",
+      "text": "Watching the stream",
+      "emotes": []
+    },
+    {
+      "id": "quiet5",
+      "at": 25000,
+      "userId": "viewer1",
+      "name": "Milo",
+      "text": "Watching the stream",
+      "emotes": []
+    },
+    {
+      "id": "quiet6",
+      "at": 30000,
+      "userId": "viewer2",
+      "name": "River",
+      "text": "Watching the stream",
+      "emotes": []
+    },
+    {
+      "id": "quiet7",
+      "at": 35000,
+      "userId": "viewer3",
+      "name": "Sage",
+      "text": "Watching the stream",
+      "emotes": []
+    },
+    {
+      "id": "quiet8",
+      "at": 40000,
+      "userId": "viewer0",
+      "name": "Fern",
+      "text": "Watching the stream",
+      "emotes": []
+    },
+    {
+      "id": "quiet9",
+      "at": 45000,
+      "userId": "viewer1",
+      "name": "Milo",
+      "text": "Watching the stream",
+      "emotes": []
+    },
+    {
+      "id": "quiet10",
+      "at": 50000,
+      "userId": "viewer2",
+      "name": "River",
+      "text": "Watching the stream",
+      "emotes": []
+    },
+    {
+      "id": "quiet11",
+      "at": 55000,
+      "userId": "viewer3",
+      "name": "Sage",
+      "text": "Watching the stream",
+      "emotes": []
+    },
+    {
+      "id": "vote0",
+      "at": 61000,
+      "userId": "viewer0",
+      "name": "Fern",
+      "text": "!clip",
+      "emotes": []
+    },
+    {
+      "id": "vote1",
+      "at": 61700,
+      "userId": "viewer1",
+      "name": "Milo",
+      "text": "!clip",
+      "emotes": []
+    },
+    {
+      "id": "vote2",
+      "at": 62400,
+      "userId": "viewer2",
+      "name": "River",
+      "text": "!clip",
+      "emotes": []
+    },
+    {
+      "id": "vote3",
+      "at": 63100,
+      "userId": "viewer3",
+      "name": "Sage",
+      "text": "!clip",
+      "emotes": []
+    },
+    {
+      "id": "vote4",
+      "at": 63800,
+      "userId": "viewer4",
+      "name": "Ash",
+      "text": "!clip",
+      "emotes": []
+    },
+    {
+      "id": "vote5",
+      "at": 64500,
+      "userId": "viewer5",
+      "name": "Rowan",
+      "text": "!clip",
+      "emotes": []
+    },
+    {
+      "id": "vote6",
+      "at": 65200,
+      "userId": "viewer6",
+      "name": "Kit",
+      "text": "!clip",
+      "emotes": []
+    },
+    {
+      "id": "vote7",
+      "at": 65900,
+      "userId": "viewer7",
+      "name": "Jules",
+      "text": "!clip",
+      "emotes": []
+    },
+    {
+      "id": "middle0",
+      "at": 70000,
+      "userId": "viewer0",
+      "name": "Fern",
+      "text": "Watching the stream",
+      "emotes": []
+    },
+    {
+      "id": "middle1",
+      "at": 74000,
+      "userId": "viewer1",
+      "name": "Milo",
+      "text": "Watching the stream",
+      "emotes": []
+    },
+    {
+      "id": "middle2",
+      "at": 78000,
+      "userId": "viewer2",
+      "name": "River",
+      "text": "Watching the stream",
+      "emotes": []
+    },
+    {
+      "id": "middle3",
+      "at": 82000,
+      "userId": "viewer3",
+      "name": "Sage",
+      "text": "Watching the stream",
+      "emotes": []
+    },
+    {
+      "id": "middle4",
+      "at": 86000,
+      "userId": "viewer0",
+      "name": "Fern",
+      "text": "Watching the stream",
+      "emotes": []
+    },
+    {
+      "id": "middle5",
+      "at": 90000,
+      "userId": "viewer1",
+      "name": "Milo",
+      "text": "Watching the stream",
+      "emotes": []
+    },
+    {
+      "id": "middle6",
+      "at": 94000,
+      "userId": "viewer2",
+      "name": "River",
+      "text": "Watching the stream",
+      "emotes": []
+    },
+    {
+      "id": "middle7",
+      "at": 98000,
+      "userId": "viewer3",
+      "name": "Sage",
+      "text": "Watching the stream",
+      "emotes": []
+    },
+    {
+      "id": "middle8",
+      "at": 102000,
+      "userId": "viewer0",
+      "name": "Fern",
+      "text": "Watching the stream",
+      "emotes": []
+    },
+    {
+      "id": "middle9",
+      "at": 106000,
+      "userId": "viewer1",
+      "name": "Milo",
+      "text": "Watching the stream",
+      "emotes": []
+    },
+    {
+      "id": "middle10",
+      "at": 110000,
+      "userId": "viewer2",
+      "name": "River",
+      "text": "Watching the stream",
+      "emotes": []
+    },
+    {
+      "id": "middle11",
+      "at": 114000,
+      "userId": "viewer3",
+      "name": "Sage",
+      "text": "Watching the stream",
+      "emotes": []
+    },
+    {
+      "id": "middle12",
+      "at": 118000,
+      "userId": "viewer0",
+      "name": "Fern",
+      "text": "Watching the stream",
+      "emotes": []
+    },
+    {
+      "id": "middle13",
+      "at": 122000,
+      "userId": "viewer1",
+      "name": "Milo",
+      "text": "Watching the stream",
+      "emotes": []
+    },
+    {
+      "id": "middle14",
+      "at": 126000,
+      "userId": "viewer2",
+      "name": "River",
+      "text": "Watching the stream",
+      "emotes": []
+    },
+    {
+      "id": "middle15",
+      "at": 130000,
+      "userId": "viewer3",
+      "name": "Sage",
+      "text": "Watching the stream",
+      "emotes": []
+    },
+    {
+      "id": "middle16",
+      "at": 134000,
+      "userId": "viewer0",
+      "name": "Fern",
+      "text": "Watching the stream",
+      "emotes": []
+    },
+    {
+      "id": "middle17",
+      "at": 138000,
+      "userId": "viewer1",
+      "name": "Milo",
+      "text": "Watching the stream",
+      "emotes": []
+    },
+    {
+      "id": "middle18",
+      "at": 142000,
+      "userId": "viewer2",
+      "name": "River",
+      "text": "Watching the stream",
+      "emotes": []
+    },
+    {
+      "id": "middle19",
+      "at": 146000,
+      "userId": "viewer3",
+      "name": "Sage",
+      "text": "Watching the stream",
+      "emotes": []
+    },
+    {
+      "id": "middle20",
+      "at": 150000,
+      "userId": "viewer0",
+      "name": "Fern",
+      "text": "Watching the stream",
+      "emotes": []
+    },
+    {
+      "id": "middle21",
+      "at": 154000,
+      "userId": "viewer1",
+      "name": "Milo",
+      "text": "Watching the stream",
+      "emotes": []
+    },
+    {
+      "id": "middle22",
+      "at": 158000,
+      "userId": "viewer2",
+      "name": "River",
+      "text": "Watching the stream",
+      "emotes": []
+    },
+    {
+      "id": "middle23",
+      "at": 162000,
+      "userId": "viewer3",
+      "name": "Sage",
+      "text": "Watching the stream",
+      "emotes": []
+    },
+    {
+      "id": "spike0",
+      "at": 170000,
+      "userId": "viewer0",
+      "name": "Fern",
+      "text": "That was close",
+      "emotes": []
+    },
+    {
+      "id": "spike1",
+      "at": 170200,
+      "userId": "viewer1",
+      "name": "Milo",
+      "text": "That was close",
+      "emotes": []
+    },
+    {
+      "id": "spike2",
+      "at": 170400,
+      "userId": "viewer2",
+      "name": "River",
+      "text": "That was close",
+      "emotes": []
+    },
+    {
+      "id": "spike3",
+      "at": 170600,
+      "userId": "viewer3",
+      "name": "Sage",
+      "text": "That was close",
+      "emotes": []
+    },
+    {
+      "id": "spike4",
+      "at": 170800,
+      "userId": "viewer4",
+      "name": "Ash",
+      "text": "That was close",
+      "emotes": []
+    },
+    {
+      "id": "spike5",
+      "at": 171000,
+      "userId": "viewer5",
+      "name": "Rowan",
+      "text": "That was close",
+      "emotes": []
+    },
+    {
+      "id": "spike6",
+      "at": 171200,
+      "userId": "viewer0",
+      "name": "Fern",
+      "text": "That was close",
+      "emotes": []
+    },
+    {
+      "id": "spike7",
+      "at": 171400,
+      "userId": "viewer1",
+      "name": "Milo",
+      "text": "That was close",
+      "emotes": []
+    },
+    {
+      "id": "spike8",
+      "at": 171600,
+      "userId": "viewer2",
+      "name": "River",
+      "text": "That was close",
+      "emotes": []
+    },
+    {
+      "id": "spike9",
+      "at": 171800,
+      "userId": "viewer3",
+      "name": "Sage",
+      "text": "That was close",
+      "emotes": []
+    },
+    {
+      "id": "spike10",
+      "at": 172000,
+      "userId": "viewer4",
+      "name": "Ash",
+      "text": "That was close",
+      "emotes": []
+    },
+    {
+      "id": "spike11",
+      "at": 172200,
+      "userId": "viewer5",
+      "name": "Rowan",
+      "text": "That was close",
+      "emotes": []
+    },
+    {
+      "id": "spike12",
+      "at": 172400,
+      "userId": "viewer0",
+      "name": "Fern",
+      "text": "That was close",
+      "emotes": []
+    },
+    {
+      "id": "spike13",
+      "at": 172600,
+      "userId": "viewer1",
+      "name": "Milo",
+      "text": "That was close",
+      "emotes": []
+    },
+    {
+      "id": "spike14",
+      "at": 172800,
+      "userId": "viewer2",
+      "name": "River",
+      "text": "That was close",
+      "emotes": []
+    },
+    {
+      "id": "spike15",
+      "at": 173000,
+      "userId": "viewer3",
+      "name": "Sage",
+      "text": "That was close",
+      "emotes": []
+    },
+    {
+      "id": "spike16",
+      "at": 173200,
+      "userId": "viewer4",
+      "name": "Ash",
+      "text": "That was close",
+      "emotes": []
+    },
+    {
+      "id": "spike17",
+      "at": 173400,
+      "userId": "viewer5",
+      "name": "Rowan",
+      "text": "That was close",
+      "emotes": []
+    },
+    {
+      "id": "emote0",
+      "at": 272000,
+      "userId": "fan0",
+      "name": "Viewer 1",
+      "text": "PogChamp",
+      "emotes": [
+        "305954156"
+      ]
+    },
+    {
+      "id": "emote1",
+      "at": 272200,
+      "userId": "fan1",
+      "name": "Viewer 2",
+      "text": "PogChamp",
+      "emotes": [
+        "305954156"
+      ]
+    },
+    {
+      "id": "emote2",
+      "at": 272400,
+      "userId": "fan2",
+      "name": "Viewer 3",
+      "text": "PogChamp",
+      "emotes": [
+        "305954156"
+      ]
+    },
+    {
+      "id": "emote3",
+      "at": 272600,
+      "userId": "fan3",
+      "name": "Viewer 4",
+      "text": "PogChamp",
+      "emotes": [
+        "305954156"
+      ]
+    },
+    {
+      "id": "emote4",
+      "at": 272800,
+      "userId": "fan4",
+      "name": "Viewer 5",
+      "text": "PogChamp",
+      "emotes": [
+        "305954156"
+      ]
+    },
+    {
+      "id": "emote5",
+      "at": 273000,
+      "userId": "fan5",
+      "name": "Viewer 6",
+      "text": "PogChamp",
+      "emotes": [
+        "305954156"
+      ]
+    },
+    {
+      "id": "emote6",
+      "at": 273200,
+      "userId": "fan6",
+      "name": "Viewer 7",
+      "text": "PogChamp",
+      "emotes": [
+        "305954156"
+      ]
+    }
+  ]
+}
