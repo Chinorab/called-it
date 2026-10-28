@@ -10,5 +10,5 @@
 - [x] Privacy and favicon
 - [x] Automated checks and Playwright CLI
 - [x] README, Devpost, demo script and license
-- [ ] Public repository
+- [x] Public repository
 - [ ] Entrant live acceptance test

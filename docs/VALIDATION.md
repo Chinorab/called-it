@@ -23,7 +23,13 @@ Playwright CLI against the real local server verified:
 - OBS overlay at 1920 by 1080 has transparent document and body backgrounds and no page overflow.
 - Overlay receives a real local WebSocket event, displays the first caller Fern, and labels the outcome Replay moment.
 
-Screenshots are local QA artifacts in output/playwright and are not committed. The Settings screenshot includes a private local overlay link; do not publish it. The overlay key is rotated after testing.
+Raw screenshots are local QA artifacts in output/playwright and are not committed. The reviewed, clearly labeled replay dashboard screenshot is published in docs/screenshots. The Settings screenshot includes a private local overlay link; do not publish it. The overlay key is rotated after testing.
+
+## Public repository and CI
+
+Public repository: https://github.com/Chinorab/called-it
+
+GitHub Actions passed dependency installation, all 26 tests, and the production build on Ubuntu with Node.js 24: https://github.com/Chinorab/called-it/actions/runs/40676998412
 
 ## Live acceptance: still required
 
