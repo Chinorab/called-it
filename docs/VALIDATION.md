@@ -31,17 +31,19 @@ Public repository: https://github.com/Chinorab/called-it
 
 GitHub Actions passed dependency installation, all 26 tests, and the production build on Ubuntu with Node.js 24: https://github.com/Chinorab/called-it/actions/runs/40676998412
 
-## Live acceptance: still required
+## Live acceptance: October 31, 2026
 
-No live OAuth or real Twitch clip is claimed by these checks. The entrant has not yet supplied local developer application credentials.
+Run on hassan_an4s from 18:20 to 18:32 UTC, with a Confidential Twitch developer application registered for http://localhost:4317/auth/callback, OAuth connected from Settings, and OBS streaming a test scene with the Called It overlay as a browser source.
 
-1. Register the Twitch application using http://localhost:4317/auth/callback.
-2. Fill .env privately, generate the encryption key, restart and connect hassan_an4s.
-3. Verify chat status says Listening to chat. Go live with original content and clips enabled.
-4. For a small controlled demo, set 3 votes within 20 seconds. Have 3 distinct consenting viewers type !clip; note the first voter.
-5. Verify exactly one confirmed clip, the matching Twitch URL, first caller notification and session count.
-6. Repeat votes during cooldown and verify no duplicate clip.
-7. End the stream and verify the ended session remains reviewable.
-8. Record the actual outcome, clip URL, timestamp and any issues here; then record the demo script.
+- Chat status showed Listening to chat. stream.online opened a live session at 18:20:25 UTC; stream.offline closed it at 18:32:30 UTC, and the ended session stays reviewable.
+- Settings for a two-person test: 2 votes within 20 seconds, 30 second cooldown. Voters were the broadcaster (hassan_an4s) and one other consenting account. This is smaller than the planned 3-viewer test.
+- The detector fired 4 times, each on 2 distinct voters, with the first caller recorded correctly.
+- The first 3 moments (18:24:10, 18:25:21 and 18:28:42 UTC) ended as failed with "Twitch did not confirm the clip within 15 seconds". Create Clip returned a clip ID each time, but Get Clips never returned those clips, and none exists on the channel afterwards. The overlay correctly showed nothing for these. A direct Create Clip call made at about 18:27 UTC, between two of these failures, was confirmed in 6.4 seconds, so the cause is not simply stream age; it remains undetermined.
+- The 4th moment (18:30:02 UTC) was confirmed: https://www.twitch.tv/hassan_an4s/clip/SpeedyAverageSamosaSpicyBoy-_OkqjPqIJJt0VUmx. The overlay showed Clip saved, called first by hassan_an4s, on the live stream, and the top callers list updated.
+- Not separately verified: that repeated votes during the cooldown produce no duplicate clip.
+
+The demo video records this run from the public channel page: https://youtu.be/UTxhRNXssV0
+
+Follow-up worth considering: a longer or configurable confirmation window, and an overlay or dashboard hint when Twitch accepts a clip it never makes available.
 
 Replay fixtures are authored synthetic timelines with fictional viewers. No real chat recording is bundled. A consented, anonymized capture can be added later with accurate provenance.

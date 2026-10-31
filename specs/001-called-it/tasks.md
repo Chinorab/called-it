@@ -11,4 +11,4 @@
 - [x] Automated checks and Playwright CLI
 - [x] README, Devpost, demo script and license
 - [x] Public repository
-- [ ] Entrant live acceptance test
+- [x] Entrant live acceptance test (October 31, 2026; see docs/VALIDATION.md)
